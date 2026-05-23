@@ -1,0 +1,12 @@
+{
+     "name": "AlSalam",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Plugin AlSalam for A.V.A.T.A.R",
+    "repository": "https://github.com/halimgambit/A.V.A.T.A.R-plugin-AlSalam",
+    "keywords": [
+        "AlSalam"
+    ],
+    "author": "halimgambit",
+    "license": "mit"
+  }

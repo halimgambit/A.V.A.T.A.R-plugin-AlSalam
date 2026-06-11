@@ -1,6 +1,8 @@
 # AlSalam
 Al‑Salam ajoute à ton Avatar de vraies salutations arabes
 
+Al Salam symbolise la paix et la tranquillité, offrant un environnement accueillant fondé sur le respect, la confiance et l’harmonie.
+
 This plugin is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.github.io/docs) framework.
 
 🎯 Usage

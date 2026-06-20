@@ -13,7 +13,7 @@ export async function action(data, callback) {
             tellSalam: () => tellSalam(data.client, Locale)
         };
 
-        info("AlSalam:", data.action.command, Locale.get("plugin.from"), data.client);
+        info("AlSalam:", data.action.command, "from", data.client);
 
         if (tblActions[data.action.command]) {
             await tblActions[data.action.command]();
